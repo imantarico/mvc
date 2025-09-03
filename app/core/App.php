@@ -3,6 +3,7 @@
 class App{
     public function __construct()
     {
-        echo "OK!";
+        echo "POLGAN!";
+        echo "Politeknik Ganesha Medan";
     }
 }
